@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bishal Phuyal</h1>
-<h3 align="center">A Disciplined Developer.</h3>
+<h3 align="center">Your Friendly Neighbourhood Develpoer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phuyalbish&label=Profile%20views&color=0e75b6&style=flat" alt="phuyalbish" /> </p>
 
@@ -14,4 +14,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phuyalbish&show_icons=true&locale=en" alt="phuyalbish" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phuyalbish&" alt="phuyalbish" /></p>
