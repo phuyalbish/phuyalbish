@@ -13,15 +13,74 @@ I build systems that convert, automate, and scale. From pixel-perfect interfaces
 
 ---
 
-## 🧠 What I Do
+## 🧠 What I Do Best
 
-```
-🔧 Business Automation     →  GoHighLevel | n8n | Workflow Design | CRM Architecture
-🎨 UI/UX Design            →  Figma | Framer | Responsive Design | Design Systems
-💻 Full-Stack Development   →  React | Next.js | Node.js | Django | TypeScript
-📈 Sales & Funnels          →  Funnel Strategy | Lead Gen | Pipeline Optimization | CRO
-☁️ DevOps & Infrastructure  →  Docker | Firebase | Git | Linux | MySQL
-```
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ⚙️ Business Automation
+<br/>
+
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-FF6B00?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![API Integrations](https://img.shields.io/badge/API_Integrations-0055FF?style=for-the-badge&logo=fastapi&logoColor=white)
+![Voice AI](https://img.shields.io/badge/Voice_AI-6C3483?style=for-the-badge&logo=openai&logoColor=white)
+![CRM](https://img.shields.io/badge/CRM_Architecture-2ECC71?style=for-the-badge&logo=salesforce&logoColor=white)
+
+<sub>Workflows | Pipelines | AI Agents | Data Sync</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 🎨 UI/UX Design
+<br/>
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black)
+![Lovable](https://img.shields.io/badge/Lovable.dev-FF1493?style=for-the-badge&logo=heart&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Prototyping](https://img.shields.io/badge/Prototyping-FF6F00?style=for-the-badge&logo=proto.io&logoColor=white)
+
+<sub>Design Systems | Dashboards | Data Viz | Mobile</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+### 💻 Full-Stack Dev
+<br/>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+<sub>Web Apps | APIs | Databases | Mobile</sub>
+
+</td>
+<td align="center" width="25%">
+
+### 📈 Sales & Funnels
+<br/>
+
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-FF6B00?style=for-the-badge&logoColor=white)
+![Funnel Strategy](https://img.shields.io/badge/Funnel_Strategy-E74C3C?style=for-the-badge&logo=target&logoColor=white)
+![Email Campaigns](https://img.shields.io/badge/Email_Campaigns-1ABC9C?style=for-the-badge&logo=mailchimp&logoColor=white)
+![Lead Gen](https://img.shields.io/badge/Lead_Generation-F39C12?style=for-the-badge&logo=hubspot&logoColor=white)
+![CRO](https://img.shields.io/badge/CRO-8E44AD?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Pipeline](https://img.shields.io/badge/Pipeline_Mgmt-3498DB?style=for-the-badge&logo=trello&logoColor=white)
+
+<sub>Lead Capture | Nurture | Booking | Close</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -30,6 +89,7 @@ I build systems that convert, automate, and scale. From pixel-perfect interfaces
 ### ⚙️ Automation & Integration
 - **GoHighLevel (GHL):** Complete CRM setups, pipelines, voice AI agents, appointment funnels, workflows, and full snapshot deployments
 - **n8n:** Production-grade workflows connecting APIs, webhooks, AI classification, email automation, and real-time data sync
+- **Lovable.dev:** Polished, production-ready web applications with optimized UI/UX, smooth animations, and clean architecture
 - **Chatbots & AI Agents:** Conversational AI systems for customer service, lead qualification, and appointment booking
 
 ### 🎯 Sales Funnels & Growth
@@ -62,6 +122,7 @@ I build systems that convert, automate, and scale. From pixel-perfect interfaces
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -70,10 +131,12 @@ I build systems that convert, automate, and scale. From pixel-perfect interfaces
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### Automation & CRM
+### Automation, CRM & No-Code
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-FF6B00?style=for-the-badge&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable.dev-FF1493?style=for-the-badge&logo=heart&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -94,10 +157,14 @@ I build systems that convert, automate, and scale. From pixel-perfect interfaces
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=phuyalbish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phuyalbish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170" />
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=phuyalbish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" /> | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=phuyalbish&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" /> |
+| --- | --- |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=phuyalbish&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B00&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=phuyalbish&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B00&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=phuyalbish&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B00" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -117,5 +184,9 @@ Whether you need a funnel that converts, a system that automates, or a platform 
 ---
 
 <div align="center">
-<i>I think like a strategist and execute like an engineer. You get both in one hire.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%" />
+
+*I think like a strategist and execute like an engineer. You get both in one hire.*
+
 </div>
