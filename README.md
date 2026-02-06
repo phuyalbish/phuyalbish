@@ -117,7 +117,7 @@ Have a project in mind? Let's bring your story to life!
 
 <br/><br/>
 
-<a href="https://wa.me/9779869023901?text=Hey%20There%2C"><img src="https://img.shields.io/badge/%F0%9F%92%AC%20Get%20in%20Touch-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" height="50" /></a>
+<a href="https://wa.me/9779869023901?text=Hey%20There%2C"><img src="https://img.shields.io/badge/Get_in_Touch-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="55" style="padding: 20px 0;" /></a>
 
 </div>
 
