@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bishal%20Phuyal&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Automation%20Architect%20%7C%20UI/UX%20Designer%20%7C%20Funnel%20Strategist&descSize=14&descAlignY=55&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bishal%20Phuyal&fontSize=50&fontAlignY=35&desc=Lovable%20%7C%20GoHighLevel%20%7C%20n8n%20%7C%20UI/UX%20%7C%20Sales/Funnel/Automation%20Expert&descSize=14&descAlignY=55&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <br/>
 
@@ -8,8 +8,7 @@
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-bishal--phuyal.com.np-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bishal-phuyal.com.np)
-[![Profile Views](https://komarev.com/ghpvc/?username=phuyalbish&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/phuyalbish)
+![Profile Views](https://komarev.com/ghpvc/?username=phuyalbish&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 
 </div>
 
@@ -364,11 +363,6 @@
 <div align="center">
 
 Whether you need a funnel that converts, a system that automates, or a platform that scales — let's make it happen.
-
-<br/><br/>
-
-[![Website](https://img.shields.io/badge/Portfolio-bishal--phuyal.com.np-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bishal-phuyal.com.np)
-[![GitHub](https://img.shields.io/badge/GitHub-phuyalbish-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phuyalbish)
 
 </div>
 
